@@ -5,7 +5,8 @@
   box-sizing: border-box;
   font-family: montserrat;
   scroll-behavior: smooth;
-  /* overflow-x: hidden; */
+  overflow-x: visible;
+  overflow-y: visible;
 }
 
 body {
